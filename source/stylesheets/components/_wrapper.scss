@@ -1,0 +1,21 @@
+.wrapper {
+  height: 50vh;
+  background-color: $light-gray;
+  p {
+    font-size: 15px;
+  }
+  h1 {
+    font-size: 25px;
+  }
+}
+
+.container {
+  display: flex;
+  align-items:center;
+  justify-content: space-around;
+  padding: 10px 20px;
+}
+
+.user-description {
+  padding: 10px 30px;
+}
